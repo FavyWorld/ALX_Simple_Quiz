@@ -18,4 +18,6 @@ function checkAnswer(){
         document.getElementById('feedback').textContent ='Please select an answer.';
     }
 };
+["addEventListener("]
+document.getElementById('submit-answer').addEventListener('click', checkAnswer);
 
