@@ -10,7 +10,7 @@ function checkAnswer(){
             feedbackElement.textContent = 'Correct! Well done'; ["Correct! Well done."]
         }
         else{
-            feedbackElement.textContent ="That's incorrect. Try again";
+            feedbackElement.textContent ="That's incorrect. Try again"; ["That's incorrect. Try again!"]
         }
     } 
     else{
